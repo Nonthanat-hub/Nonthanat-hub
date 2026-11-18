@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, I’m Nonthanat 👋
 
-<!--
-**Nonthanat-hub/Nonthanat-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | Python Developer
 
-Here are some ideas to get you started:
+I’m building my skills in data analytics and Python development, with an academic background in Data Science and Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data, solving problems, and turning raw data into useful insights.
+
+🛠️ Skills & Tools
+
+* Programming: Python
+* Data Analysis: Pandas, NumPy
+* Database: SQL, SQLite
+* Spreadsheet: Microsoft Excel
+* Other Tools: Git, GitHub, Linux
+
+📊 Current Projects
+
+* E-commerce Sales & Customer Analytics
+    * Data cleaning and exploratory data analysis
+    * SQL-based business analysis
+    * Sales and customer insights
+    * Excel reporting and visualization
+
+🎯 Currently Learning
+
+* Advanced Python for Data Analysis
+* SQL for Business Intelligence
+* Data Visualization
+* Python Automation
+
+📫 Contact
+
+* GitHub: @Nonthanat-hub
+
+⸻
+
+Always learning, building, and improving.
