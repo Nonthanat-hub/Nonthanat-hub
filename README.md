@@ -1,38 +1,45 @@
-Hi, I’m Nonthanat 👋
 
-Aspiring Data Analyst | Python Developer
+# Hi, I'm Nonthanat 👋
 
-I’m building my skills in data analytics and Python development, with an academic background in Data Science and Cybersecurity.
+### Aspiring Data Analyst | Python Developer
+
+I'm building my skills in data analytics and Python development, with an academic background in Data Science and Cybersecurity.
 
 I enjoy working with data, solving problems, and turning raw data into useful insights.
 
-🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
-* Programming: Python
-* Data Analysis: Pandas, NumPy
-* Database: SQL, SQLite
-* Spreadsheet: Microsoft Excel
-* Other Tools: Git, GitHub, Linux
+- **Programming:** Python
+- **Data Analysis:** Pandas, NumPy
+- **Database:** SQL, SQLite
+- **Spreadsheet:** Microsoft Excel
+- **Visualization:** Matplotlib, Seaborn
+- **Other Tools:** Git, GitHub, Linux
 
-📊 Current Projects
+## 📊 Featured Project
 
-* E-commerce Sales & Customer Analytics
-    * Data cleaning and exploratory data analysis
-    * SQL-based business analysis
-    * Sales and customer insights
-    * Excel reporting and visualization
+### E-commerce Sales & Customer Analytics
 
-🎯 Currently Learning
+An ongoing data analytics project using the Online Retail II dataset.
 
-* Advanced Python for Data Analysis
-* SQL for Business Intelligence
-* Data Visualization
-* Python Automation
+- Data cleaning and exploratory data analysis
+- SQL-based business analysis
+- Customer purchasing behavior
+- Sales performance and reporting
 
-📫 Contact
+[View Project Repository](https://github.com/Nonthanat-hub/ecommerce-sales-analysis)
 
-* GitHub: @Nonthanat-hub
+## 🎯 Currently Learning
 
-⸻
+- Python for Data Analysis
+- SQL for Business Intelligence
+- Data Visualization
+- Python Automation
 
-Always learning, building, and improving.
+## 📫 Contact
+
+- GitHub: [@Nonthanat-hub](https://github.com/Nonthanat-hub)
+
+---
+
+*Always learning, building, and improving.*
